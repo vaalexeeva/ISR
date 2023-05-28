@@ -4,7 +4,7 @@
 
 1) Склонируйте репозиторий с проетом
 ```bash
-git clone https://github.com/KAD1029/DL2023.git
+git clone https://github.com/vaalexeeva/ISR.git
 ```
 
 2) Соберите образ докера:
